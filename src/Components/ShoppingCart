@@ -1,0 +1,12 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+
+function ShoppingCart() {
+    return (
+      <div>
+        this will be where my shopping cart goes. 
+      </div>
+    );
+  }
+  
+  export default ShoppingCart;
